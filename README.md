@@ -1,4 +1,4 @@
-# Video Surfing Website
+# Video Surfing Platform
 - This project is a video-sharing website design inspired by YouTube, built using HTML, CSS, and JavaScript. The goal is to replicate the look and feel of YouTube's interface with a responsive design.
 
 ## Project Overview
@@ -25,7 +25,7 @@
 - To get started with the project, clone the repository to your local machine:
 ```bash
 git clone git@github.com:lazarous18/YouTube.git
-cd youtube-clone
+cd YouTube-clone
 ```
 ## 2. Open the Project
 - Navigate to the project directory in your code editor.
